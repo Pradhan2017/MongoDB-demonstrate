@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-playlist",
+  "version": "1.0.0",
+  "description": "files for the MongoDB tutorials.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.1.1",
+    "mongoose": "^5.0.17"
+  }
+}
